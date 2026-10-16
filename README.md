@@ -9,7 +9,5 @@ Python、Java、SQL、FastAPI、LangChain、ChromaDB、PostgreSQL、pgvector、D
 
 - [ai-doc-lint](https://github.com/Zhe713/ai-doc-lint)：自托管 AI 文档校验工具，让 AI 做校对、行家做判断。格式/错别字/条款完整性/金额勾稽全自动审查，报告带原文引用，核心校验 0 token 本地运行；含自学习闭环与 7 容器 Docker 编排
 - [rag-qa-system](https://github.com/Zhe713/rag-qa-system)：一个 RAG 问答系统，包含了向量化、切片、检索、排序达到满意的结果
-- [dorm-management-system](https://github.com/Zhe713/dorm-management-system)：Java Web 项目，Servlet + JSP + JDBC
-- [python-daily-scripts](https://github.com/Zhe713/python-daily-scripts)：一些日常用的 Python 小工具脚本
 
 欢迎 Star Issue 交流。
